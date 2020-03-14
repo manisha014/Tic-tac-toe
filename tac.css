@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 40px;
+    color: #01bBC2;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 3rem;
+}
+
+canvas {
+    margin-top: 50px;
+    cursor: pointer;
+}
